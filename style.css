@@ -1,0 +1,15 @@
+body{
+    background-image: url(./img/airplane.png), url(./img/sky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 20%, cover;
+    background-position: 30% 2%;
+    
+}
+
+/* .plane{
+    background-image: url(./img/airplane.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: right left;
+} */
